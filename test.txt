@@ -8,4 +8,8 @@ I dont eat meat
 This is ido!
 WOW!
 
+<<<<<<< HEAD
 function ido()
+=======
+function alex();
+>>>>>>> 4c590fa66489bf3e9ba4baf2a9184ec8dcceec4b
