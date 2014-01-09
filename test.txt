@@ -20,5 +20,8 @@ g
 }
 
 function alex(){
-
+a 
+b
+c
+d
 }
