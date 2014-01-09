@@ -8,3 +8,4 @@ I dont eat meat
 This is ido!
 WOW!
 
+function alex();
